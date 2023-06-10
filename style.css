@@ -1,0 +1,37 @@
+.one{
+    border: solid 3px red;
+    padding: 15px;
+}
+.two{ 
+    border: double 3px rgb(9, 255, 0);
+    padding: 15px;
+} 
+.three{
+    border: groove 3px rgb(195, 0, 255);
+    padding: 15px;
+}
+.four{
+    border: ridge 3px rgb(255, 200, 0);
+    padding: 15px;
+}
+
+.five{
+    border: inset 3px rgb(115, 255, 0);
+    padding: 15px;
+}
+
+.six{
+
+    border: outset 3px rgb(0, 255, 166);
+    padding: 15px;
+}
+.seven{
+
+    border: dashed 3px rgb(0, 60, 255);
+    padding: 15px;
+}
+.eight{
+
+    border: dotted 3px rgb(255, 0, 255);
+    padding: 15px;
+}
